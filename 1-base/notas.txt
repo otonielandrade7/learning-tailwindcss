@@ -1,2 +1,4 @@
-Puntos de quiebre:
+-Puntos de quiebre:
 sm:, md:, lg:, xl:
+-Font Sizing:
+text-sm, ''-md, ''-xl, ''-2xl, ''3xl
