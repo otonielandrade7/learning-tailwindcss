@@ -1,0 +1,2 @@
+Puntos de quiebre:
+sm:, md:, lg:, xl:
